@@ -12,4 +12,3 @@ print(numero2)
 
 print(str(numero2))
 
-5*5+2*3
